@@ -1,3 +1,10 @@
+# Created By Trang Kieu
+# January 18th 2024
+# Description: Word Ladder Game
+# From the given starting word, find the shortest path to of single character changes which leads to some final words
+# The list of words are using in this program is words.txt
+# The list of start and end words to test the program is in pairs.txt
+
 from collections import deque
 import time
 
